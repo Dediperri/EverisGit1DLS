@@ -1,0 +1,21 @@
+package com.everis.git;
+
+
+/**
+ * Clase Principal
+ * @author dlopezst
+ */
+
+public class MainApp {
+
+	/**
+	 * Metodo Principal
+	 * @author dlopezst
+	 */
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Hola Mundo");
+	}
+	
+}

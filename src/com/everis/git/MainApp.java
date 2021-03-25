@@ -18,6 +18,8 @@ public class MainApp {
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Hola soy Diego López Strickland!");
+		
+		System.out.println("Hola este es la tercera versión del proyecto");
 	}
 	
 }
